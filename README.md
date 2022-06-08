@@ -13,7 +13,7 @@ Repositório criado para acompanhar a minha evolução durante o bootcamp Santan
 
 - [x] Introdução à Programação e Pensamento Computacional
 - [x] Introdução ao Git e ao GitHub
-- [ ] Criando seu Primeiro Repositório no GitHub paara compartilhar seu progresso
+- [x] Criando seu Primeiro Repositório no GitHub paara compartilhar seu progresso
 
 ### Módulo II - HTML3/CSS3/JS
 
