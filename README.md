@@ -11,7 +11,7 @@ Repositório criado para acompanhar a minha evolução durante o bootcamp Santan
 
 ### Módulo I - Conteudo de Abertura
 
-- [ ] Introdução à Programação e Pensamento Computacional
+- [x] Introdução à Programação e Pensamento Computacional
 - [ ] Introdução ao Git e ao GitHub
 - [ ] Criando seu Primeiro Repositório no GitHub paara compartilhar seu progresso
 
