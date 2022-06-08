@@ -6,7 +6,7 @@ Repositório criado para acompanhar a minha evolução durante o bootcamp Santan
 
 - [x] Conheça as Oportunidades da DIO
 - [x] Seja Protagonista Neste Bootcamp
-- [ ] Boas-vindas ao Santander Bootcamp Fullstack Developer
+- [x] Boas-vindas ao Santander Bootcamp Fullstack Developer
 - [ ] Mentoria 01: Aula Inaugural - Santander Bootcamp Fullstack Developer
 
 ### Módulo I - Conteudo de Abertura
