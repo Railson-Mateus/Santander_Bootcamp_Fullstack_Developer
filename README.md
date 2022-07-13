@@ -17,7 +17,7 @@ Repositório criado para acompanhar a minha evolução durante o bootcamp Santan
 
 ### Módulo II - HTML3/CSS3/JS
 
-- [ ] Introdução a criação de websites com HTML5 e CSS3
+- [x] Introdução a criação de websites com HTML5 e CSS3
 - [ ] Posicionando elementos com Flexbox em CSS
 - [ ] Recriando a página inicial do Instagram
 - [ ] Introdução ao JavaScript
