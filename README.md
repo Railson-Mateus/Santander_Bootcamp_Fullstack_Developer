@@ -19,7 +19,7 @@ Repositório criado para acompanhar a minha evolução durante o bootcamp Santan
 
 - [x] Introdução a criação de websites com HTML5 e CSS3
 - [x] Posicionando elementos com Flexbox em CSS
-- [ ] Recriando a página inicial do Instagram
+- [x] Recriando a página inicial do Instagram
 - [ ] Introdução ao JavaScript
 - [ ] Sintaxe e Operadores
 - [ ] Variáveis e Tipos
@@ -57,7 +57,7 @@ Repositório criado para acompanhar a minha evolução durante o bootcamp Santan
 - [ ] Entendendo métodos Java
 - [ ] Lógica Conicional e Controle de fluxos em Java
 - [ ] Estruturas de Repetição e Arrays em java
-- [ ]Trabalhando com Collections java
+- [ ] Trabalhando com Collections java
 - [ ] Tratamento de Exeções em java
 - [ ] Debugging java
 - [ ] Programação Orientada a Objetos
